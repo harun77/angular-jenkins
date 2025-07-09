@@ -35,7 +35,6 @@
           },
           "configurations": {
             "production": {
-              "baseHref": "/ordiss/",
               "budgets": [
                 {
                   "type": "initial",
